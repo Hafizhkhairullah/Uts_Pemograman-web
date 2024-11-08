@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profil Diri</title>
+   
+<div class="container">
+        <header>
+            <h1>Profil Diri</h1>
+            </header>
+   
+
+    <h1>Muhammad Hafizh Khairullah</h1>
+    <p>Halo, saya Muhammad Hafizh Khairullah. Saya seorang Pengusaha Peternak Ayam Telor yang memiliki minat di bidang Peternakan. Saya bersemangat untuk belajar dan terus mengembangkan kemampuan di bidang Peternakan dan Dunia IT.</p>
+    
+    <div class="info">
+        <h2>Tentang Saya</h2>
+        <p>Saya lahir dan besar di Samarinda, Kalimantan Timur. Saya memiliki Hobi Main Game dan sering menghabiskan waktu untuk Bermain Game pada malam hari. Pengalaman saya dalam bidang IT dan Peternakan telah memberikan saya banyak kesempatan untuk belajar dan bertemu banyak orang hebat.</p>
+        
+        <h2>Keahlian</h2>
+        <p>- Bahasa Pemrograman: HTML, CSS, JavaScript</p>
+        <p>- Desain Grafis: Photoshop</p>
+        <p>- Peternakan Ayam Bertelor</p>
+        <p>- Hardware : Perbaikan Komputer, Jaringan dan Printer</p>
+    </div>
+
+    <div class="social-links">
+        <h2>Sosial Media</h2>
+        <a href="https://github.com/yourprofile" target="_blank">GitHub</a>
+        <a href="https://www.instagram.com/hafizhattari/" target="_blank">Instagram</a>
+    </div>
+</div>
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f3f4f6;
+        color: #333;
+    }
+    header {
+        background-color: #4CAF50;
+        color: white;
+        text-align: center;
+        padding: 20px 0;
+    }
+    .container {
+        max-width: 800px;
+        margin: 20px auto;
+        padding: 20px;
+        background-color: #fff;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        border-radius: 8px;
+    }
+    .profile-image {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        display: block;
+        margin: 0 auto;
+    }
+    h1 {
+        text-align: center;
+        color: #333;
+        margin-top: 10px;
+    }
+    p {
+        text-align: center;
+        color: #555;
+        line-height: 1.6;
+    }
+    .info {
+        margin-top: 20px;
+        text-align: left;
+    }
+    .info h2 {
+        color: #333;
+        font-size: 18px;
+        margin-bottom: 5px;
+    }
+    .info p {
+        color: #555;
+        margin-bottom: 10px;
+    }
+    .social-links {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .social-links a {
+        margin: 0 10px;
+        text-decoration: none;
+        color: #4CAF50;
+    }
+    .social-links a:hover {
+        color: #388e3c;
+    }
+</style>
+</head>
+</html>
